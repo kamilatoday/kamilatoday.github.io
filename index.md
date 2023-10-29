@@ -3,16 +3,37 @@ layout: home
 title: Home
 ---
 
-# About
+# Камила Хайретдинова
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Специалист по исламским финансам, шариатский эксперт.
+В финансах 13 лет, в исламских – 9.
 
-This is the home page. It can be used for a short introduction. [Click here](/cv) to see the full CV, and [here](/cv.pdf) to download a print version. The theme also ships with a blog: [click here](/posts) to scroll posts from the most recent. Finally, [click here](/404) to see a page that can't be found.
+# Род деятельности
+- Составляю финансовые планы, инвестиционные портфели и договоры для мусульман.
+- Обучаю основам на своих курсах.
 
-By default, the theme only contains these few pages in order to stay lean and flexible. However, it can be easily extended to accommodate more pages, [collections](https://jekyllrb.com/docs/collections/), [categories, and tags](https://jekyllrb.com/docs/posts/#tags-and-categories).
+# Образование (кстати, все на бюджете):
+- Сертифицированный шариатский эксперт (CSAA AAOIFI, Манама)
+- Магистр исламских финансов (INCEIF, Куала Лумпур)
+- Бакалавр экономики, специализация – Рынок ценных бумаг (Финансовый университет при Правительстве РФ, Москва)
+- Консультант по финансовой грамотности (Программа Минфина РФ).
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Опыт:
+- Московская биржа (анализировала стартапы перед IPO),
+- Swiss Appraisal (оценка),
+- РЦИЭФ (консультировала население),
+- R2L marketing agency (настраиваем digital),
+- Yusuf consulting (создатель),
+- Деловая игра “Бай” (создатель).
 
-Below is a list of blog posts included for illustrative purposes. Make sure to delete or modify them before deploying your website.
+# Членство, награды:
+- Член Российской ассоциации экспертов по исламскому финансированию (РАЭИФ, Москва)
+- Вошла в топ 200 женщин в сфере исламских финансов в мире: Cambridge IFA Womani Award 2020.
 
-{% include archive.html %}
+# Контакты:
+- [Телеграм](https://t.me/kamilatoday)
+- [Инстаграм](https://www.instagram.com/kamilatoday)
+- [Запись на консультации](https://t.me/kamilatodayBot)
+- [Запись на игры БАЙ](https://t.me/game_bai_bot)
+
+
