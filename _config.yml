@@ -1,30 +1,26 @@
 # site settings
 
 title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
-url: https://cvless.netlify.app
+description: Камила Хайретдинова – специалист по исламским финансам, шариатский эксперт.
+taglong: Камила Хайретдинова – специалист по исламским финансам, шариатский эксперт.V
+tagshort: Камила Хайретдинова
+url: https://kamilatoday.ru
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/kamilatoday/kamilatoday.github.io
 
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
+  name: Камила Хайретдинова
+  email: kamilatoday@gmail.com
 photo: /assets/jpg/photo.jpg
 
 # social media links
 
 social:
-  facebook: username
-  github: username
-  instagram: username
-  linkedin: username
-  stackoverflow: 0000000/username
-  twitter: username
+  telegram: kamilatoday
+  instagram: kamilatoday
 
 # build settings
 
