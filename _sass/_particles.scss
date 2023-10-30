@@ -12,7 +12,7 @@
 
   .jumbotron {
     position: absolute;
-    top: 44%;
+    top: 50%;
     left: 50%;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
@@ -30,7 +30,7 @@
 }
 
 .particles-photo {
-  width: 50%;
+  width: 40%;
   border-radius: 50%;
   margin: auto;
   margin-bottom: 0.5em;
@@ -40,7 +40,7 @@
   margin: 0;
   font-size: 2.5em;
   font-weight: 500;
-  //white-space: nowrap;
+  white-space: nowrap;
 }
 
 .particles-subtitle {
